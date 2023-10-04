@@ -1,0 +1,39 @@
+{
+  "name": "test2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "cypress": "cypress open"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.3.1",
+    "jquery": "^3.7.1",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^20.7.1",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "cypress": "^13.3.0",
+    "postcss": "latest",
+    "prisma": "^5.3.1",
+    "tailwindcss": "latest",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+<<<<<<< HEAD
+  }
+=======
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "author": "",
+  "license": "ISC"
+>>>>>>> 72502b3 (set commit)
+}

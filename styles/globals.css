@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.center {
+  text-align: center;
+}
+.image {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+}
+.fanis {
+  padding-left: 150px;
+}
+.word {
+  word-wrap: break-word;
+  width: 400px;
+  text-align: center;
+}
